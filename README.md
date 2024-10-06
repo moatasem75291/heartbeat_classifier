@@ -75,7 +75,7 @@ To run this project locally, follow these steps:
 
 ## 🖥️ Deployed Application
 
-You can access the live application here: [Deployed Link]()
+You can access the live application here: [Deployed Link](https://heartbeat-moatasem22.streamlit.app/)
 
 ## 📁 Project Structure
 
